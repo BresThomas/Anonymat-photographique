@@ -1,0 +1,18 @@
+{
+  "shapes": [
+    {
+      "type": "circle",
+      "x": 285.0,
+      "y": 277.0,
+      "r": 100.0
+    },
+    {
+      "type": "circle",
+      "x": 700.0,
+      "y": 289.0,
+      "r": 90.0
+    }
+  ],
+  "in": "chats.jpg",
+  "out": "chats-flou.png"
+}

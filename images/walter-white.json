@@ -1,0 +1,13 @@
+{
+  "in": "walter-white.jpg",
+  "out": "walter-white-flou.png",
+  "shapes": [
+      {
+          "type": "ellipse",
+          "x": 200,
+          "y": 300,
+          "a": 120,
+          "b": 180
+      }
+  ]
+}
