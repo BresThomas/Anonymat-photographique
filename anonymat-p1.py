@@ -101,7 +101,6 @@ def fill_circle(im, cxy, cr, color):
                 if (x - centerX) ** 2 + (y - centerY) ** 2 <= cr ** 2:
                     im.set_color((x, y), color)
 
-
 def exec_orders(orders):
     """Exécute les ordres `orders`..."""
     print("Image à lire:", orders["in"])
