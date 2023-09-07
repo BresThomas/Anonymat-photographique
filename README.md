@@ -4,6 +4,8 @@ L’objectif de ce projet est de concevoir et d’écrire
 en Python un script permettant de cacher plusieurs
 parties d’une image (pour préserver l’anonymat
 de certains sujets par exemple).
+-----------------------------------------------------------------------------------------------------------------
+The objective of this project is to design and implement a Python script that can conceal multiple parts of an image (to protect the anonymity of certain subjects, for example).
 
 # Exemple : 
 
